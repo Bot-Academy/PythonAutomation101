@@ -10,7 +10,7 @@ KEYWORD = '#python'
 
 driver = webdriver.Chrome(DRIVER_PATH)
 driver.implicitly_wait(5)
-driver.get('http://www.instagram.com/')
+driver.get('https://www.instagram.com/?hl=en')
 driver.find_element_by_name('username').send_keys(USERNAME)
 driver.find_element_by_name('password').send_keys(PASSWORD)
 driver.find_element_by_xpath("//*[contains(text(), 'Log In')]").click()

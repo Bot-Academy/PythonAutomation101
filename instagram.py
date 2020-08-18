@@ -10,11 +10,14 @@ KEYWORD = '#python'
 
 driver = webdriver.Chrome(DRIVER_PATH)
 driver.implicitly_wait(5)
-driver.get('https://www.instagram.com/?hl=en')
+# Updated the next line to ensure that Instagram will display everything in English
+driver.get('https://www.instagram.com/?hl=en') 
 driver.find_element_by_name('username').send_keys(USERNAME)
 driver.find_element_by_name('password').send_keys(PASSWORD)
 driver.find_element_by_xpath("//*[contains(text(), 'Log In')]").click()
 driver.find_element_by_xpath("//*[contains(text(), 'Not Now')]").click()
+# Added the next line to ensure that English is still the language after login 
+driver.get('https://www.instagram.com/?hl=en')
 driver.find_element_by_xpath("//*[contains(text(), 'Not Now')]").click()
 search_box = driver.find_element_by_xpath("//*[contains(text(), 'Search')]").click()
 # search_box.send_keys(KEYWORD) - Not working!

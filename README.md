@@ -1,8 +1,17 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-# PythonAutomation101
-https://youtu.be/6Uu944IafNU
+<p align="center">
+    <a href="https://www.youtube.com/BotAcademyYT"><img src="https://botacademy.s3.eu-central-1.amazonaws.com/9999_channel_design/logo/900x900.png" alt="Logo" width="150"/></a>
+    <br />
+    <br />
+    <a href="http://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat" alt="MIT License"></a>
+    <a href="https://twitter.com/bot_academy/"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40bot_academy" alt="Twitter">
+    <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
+    <br />
+    <br />
+    <i>Implementation of a simple Instagram and Fortnite Bot</i>
+    <br />
+    <a href="youtu.be/oxiljzj9jgq"><i>Video</i></a>
+</p>
+<hr />
 
 ## Important
 Liking too many posts in a short period of time can lead to like blocks on Instagram. Playing too many idle rounds in Fortnite can lead to a temporary ban. Don’t use these Bots with your main accounts & improve them to reduce the risk of blocks / bans. They can be easily improved with what you’ve learned in this video!

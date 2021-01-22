@@ -9,7 +9,7 @@
     <br />
     <i>Implementation of a simple Instagram and Fortnite Bot</i>
     <br />
-    <a href="youtu.be/oxiljzj9jgq"><i>Video</i></a>
+    <a href="https://www.youtube.com/watch?v=6Uu944IafNU"><i>Video</i></a>
 </p>
 <hr />
 
